@@ -20,6 +20,10 @@ body {
   font-family: "Manrope", sans-serif;
 }
 
+footer { 
+  text-align: center;
+}
+
 .card {
   background: linear-gradient(
     68.6deg,
