@@ -3,21 +3,25 @@ h1 {
   font-family: "Manrope", sans-serif;
   font-size: 45px;
   font-weight: bold !important;
+  color: #fff;
 }
 
 h2 {
   font-size: 75px !important;
+  color: #fff;
 }
 
 p {
   font-family: "Licorice", cursive;
   font-family: "Manrope", sans-serif;
   font-size: 25px;
+  color: #fff;
 }
 
 body {
   font-family: "Licorice", cursive;
   font-family: "Manrope", sans-serif;
+  color: #fff;
 }
 
 footer { 
@@ -30,7 +34,7 @@ footer {
     rgb(252, 165, 241) 1.8%,
     rgb(181, 255, 255) 100.5%
   );
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background: radial-gradient(circle at 12.3% 19.3%, rgb(85, 88, 218) 0%, rgb(95, 209, 249) 100.2%);
 }
 
 .days-of-week {
